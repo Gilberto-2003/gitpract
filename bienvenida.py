@@ -1,1 +1,1 @@
-print("Bienvenidos a la fiesta")
+print("Bienvenidos a la fiesta de graduacion")
